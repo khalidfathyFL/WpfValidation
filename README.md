@@ -30,7 +30,7 @@ WPF (Windows Presentation Foundation) provides several mechanisms for validating
 
 | Validation Type         | Synchronous | Asynchronous | Multiple Errors | UI Integration |
 |------------------------|:-----------:|:------------:|:---------------:|:--------------:|
-| Data Annotations       |     ✔️      |      ❌      |       ❌        |      ✔️        |
+| Data Annotations       |     ✔️      |      ❌      |       ✔️        |      ✔️        |
 | Exception Validation   |     ✔️      |      ❌      |       ❌        |      ✔️        |
 | IDataErrorInfo         |     ✔️      |      ❌      |       ❌        |      ✔️        |
 | INotifyDataErrorInfo   |     ✔️      |      ✔️      |       ✔️        |      ✔️        |
